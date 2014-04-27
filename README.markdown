@@ -2,7 +2,7 @@ realpath
 ========
 
 This is Cat's Eye Technologies' `realpath`, a simple command-line tool that
-resolves relative filenames to absolute ones.  It:
+resolves relative file paths to absolute ones.  It:
 
 *   is written in Python
 *   is small and has no dependencies besides Python
@@ -17,7 +17,7 @@ resolves relative filenames to absolute ones.  It:
 Usage
 -----
 
-    realpath _path_
+    realpath PATH
 
 Related work
 ------------

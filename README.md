@@ -4,7 +4,7 @@
 This is Cat's Eye Technologies' `realpath`, a simple command-line tool that
 resolves relative file paths to absolute ones.  It:
 
-*   is written in Python (tested with 2.7.6)
+*   is written in Python 3 (tested with 3.8.10)
 *   is small and has no dependencies besides Python
 *   is in the public domain (see `UNLICENSE`)
 *   is trivial
@@ -12,7 +12,7 @@ resolves relative file paths to absolute ones.  It:
 *   has no build/install system; either copy it to somewhere on your
     search path, or alter your search path to include the `script` directory
     in this repo, or use some system that solves this problem, like
-    [toolshelf](http://catseye.tc/node/toolshelf).
+    [shelf](http://catseye.tc/node/shelf).
 
 Usage
 -----

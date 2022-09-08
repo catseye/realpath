@@ -1,6 +1,14 @@
 `realpath`
 ==========
 
+_Version 1.0-2022.0908_
+| _Entry_ [@ catseye.tc](https://catseye.tc/node/realpath)
+| _See also:_ [ellsync](https://github.com/catseye/ellsync#readme)
+∘ [yastasoti](https://github.com/catseye/yastasoti#readme)
+∘ [shelf](https://github.com/catseye/shelf#readme)
+
+- - - -
+
 This is Cat's Eye Technologies' `realpath`, a simple command-line tool that
 resolves relative file paths to absolute ones.  It:
 

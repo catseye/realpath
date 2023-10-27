@@ -3,9 +3,9 @@
 
 _Version 1.0-2022.0908_
 | _Entry_ [@ catseye.tc](https://catseye.tc/node/realpath)
-| _See also:_ [ellsync](https://github.com/catseye/ellsync#readme)
-∘ [yastasoti](https://github.com/catseye/yastasoti#readme)
-∘ [shelf](https://github.com/catseye/shelf#readme)
+| _See also:_ [ellsync](https://codeberg.org/catseye/ellsync#ellsync)
+∘ [tagfarm](https://codeberg.org/catseye/tagfarm#tagfarm)
+∘ [shelf](https://codeberg.org/catseye/shelf#shelf)
 
 - - - -
 
